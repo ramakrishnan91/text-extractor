@@ -9,7 +9,7 @@ import openai
 import json
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = ""
 prompt_common_text = """
 Return result in JSON format without any explanation.
 Output:
